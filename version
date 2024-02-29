@@ -1,0 +1,44 @@
+{
+    "versionName": "1.0.0",
+    "versionCode": 0,
+    "versionFormat": "%versionName%",
+    "sponsors": [
+        {
+            "category": "developer",
+            "displayName": "开发者",
+            "titleFormat": [
+                "GOLD",
+                "BOLD"
+            ],
+            "sponsorFormat": [
+                "GOLD"
+            ],
+            "sponsors": [
+                {
+                    "name": "LingJiuQiSan",
+                    "uuid": "285720db-514e-4a67-97c0-c0b3f74c80b1"
+                }
+            ]
+        }
+    ],
+    "sponsorMessage": [
+        "",
+        {
+            "category": "developer",
+            "text": "Hello, World!",
+            "color": "gold"
+        }
+    ],
+    "changelogs": {
+        "1.0.0": [
+            "First commit"
+        ]
+    },
+    "welcomeMessage": [
+        "",
+        {
+            "text": "Hello, welcome to play ",
+            "color": "gold"
+        }
+    ]
+}
