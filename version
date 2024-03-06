@@ -51,6 +51,19 @@
         {
             "text": "Welcome to play!",
             "color": "gold"
+        },
+        {
+            "text": "\n"
+        },
+        {
+            "text": "Github repository address!",
+            "color": "red",
+            "bold": true,
+            "underlined": true,
+            "clickEvent": {
+                "action": "open_url",
+                "value": "https://github.com/LingJiuQiSan/LJQS-Project-One"
+            }
         }
     ]
 }
