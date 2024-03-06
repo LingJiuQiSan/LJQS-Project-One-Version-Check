@@ -24,6 +24,13 @@
     "sponsorMessage": [
         "",
         {
+            "text": "Thank you for your contribution！",
+            "color": "gold"
+        },
+        {
+            "text": "\n"
+        },
+        {
             "text": "Become a contributor!",
             "color": "red",
             "bold": true,
