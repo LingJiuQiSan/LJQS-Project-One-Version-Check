@@ -24,9 +24,19 @@
     "sponsorMessage": [
         "",
         {
-            "category": "developer",
-            "text": "Hello, World!",
+            "text": "Thank you for your contribution!",
             "color": "gold"
+        }, {
+            "text": "\n"
+        }, {
+            "text": "Become a contributor!",
+            "color": "red",
+            "bold": true,
+            "underlined": true,
+            "clickEvent": {
+                "action": "open_url",
+                "value": "https://github.com/LingJiuQiSan/LJQS-Project-One"
+            }
         }
     ],
     "changelogs": {
@@ -37,7 +47,7 @@
     "welcomeMessage": [
         "",
         {
-            "text": "Hello, welcome to play ",
+            "text": "Welcome to play!",
             "color": "gold"
         }
     ]
